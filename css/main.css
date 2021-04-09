@@ -30,6 +30,13 @@ ul {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  align-self: stretch;
+  gap: 1rem;
+}
+
+a {
+  text-decoration: none;
+  color: #0074d9;
 }
 
 h1 + img {
